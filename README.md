@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu Mishra
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Anything
 - 📫 I am a Part Time web Developer And front end designer
 
