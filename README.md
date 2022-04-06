@@ -1,16 +1,18 @@
 - 👋 Hi, I’m Priyanshu Mishra
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on Anything
-- 📫 I am a Part Time web Developer And front end designer
+- 📫 I am a Part Time Full Stack Developer And front end UI/UX designer
 
 **Skills:**
-SCSS
-HTML
-JS
-CSS
-PHP
-PYTHON
+- SCSS
+- HTML
+- JS
+- CSS
+- PHP
+- PYTHON
+- JAVA
+- C++
 
 
 
